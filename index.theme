@@ -3,7 +3,7 @@
 
 [Icon Theme]
 Name=Adwaita-Xfce
-Comment=openSUSE Xfce Default Icon Theme
+Comment=Adwaita icon theme extension for Xfce 
 Inherits=Adwaita
 Example=folder
 
