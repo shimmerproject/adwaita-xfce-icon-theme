@@ -25,16 +25,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1417"
-     inkscape:window-height="997"
+     inkscape:window-width="1920"
+     inkscape:window-height="999"
      id="namedview35"
      showgrid="true"
-     inkscape:zoom="2.8513754"
-     inkscape:cx="44.364555"
-     inkscape:cy="65.056323"
+     inkscape:zoom="7.7169727"
+     inkscape:cx="78.787372"
+     inkscape:cy="59.284906"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg11300"
      inkscape:document-rotation="0"
      inkscape:showpageshadow="2"
@@ -292,29 +292,35 @@
      cy="84"
      r="21" />
   <circle
-     style="display:inline;fill:#cccccc;stroke-width:0.151716;enable-background:new"
+     style="display:inline;fill:#cccccc;stroke-width:0.303432;enable-background:new"
+     id="path8415-3-6-3"
+     cx="64"
+     cy="84"
+     r="8" />
+  <circle
+     style="display:inline;fill:#e6e6e6;stroke-width:0.151716;enable-background:new"
      id="path8415-3-6"
      cx="64.079277"
      cy="83.912003"
      r="4" />
   <path
      style="display:inline;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1.01087px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
-     d="m 48,84 8,4 v -8 z"
+     d="m 44,84 8,4 v -8 z"
      id="path16575-7-5"
      sodipodi:nodetypes="cccc" />
   <path
      style="display:inline;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1.01087px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
-     d="m 64,68 -4,8 h 8 z"
+     d="m 64,64 -4,8 h 8 z"
      id="path16575-7-5-5"
      sodipodi:nodetypes="cccc" />
   <path
      style="display:inline;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1.01087px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
-     d="m 80,84 -8,-4 v 8 z"
+     d="m 84,84 -8,-4 v 8 z"
      id="path16575-7-5-6"
      sodipodi:nodetypes="cccc" />
   <path
      style="display:inline;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1.01087px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
-     d="m 64,100 4,-8 h -8 z"
+     d="m 64,104 4,-8 h -8 z"
      id="path16575-7-5-2"
      sodipodi:nodetypes="cccc" />
   <path
