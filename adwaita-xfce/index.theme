@@ -4,7 +4,7 @@ Comment=Adwaita icon theme extension for Xfce
 Inherits=Adwaita
 Example=folder
 
-Directories=16x16/devices,16x16/status,22x22/status,24x24/devices,24x24/status,32x32/devices,32x32/status,48x48/apps,48x48/devices,48x48/status,/apps,scalable/apps,scalable/devices,scalable/status,scalable/actions,scalable/categories
+Directories=16x16/devices,16x16/status,22x22/status,24x24/devices,24x24/status,32x32/devices,32x32/status,48x48/apps,48x48/devices,48x48/status,scalable/apps,scalable/devices,scalable/status,scalable/actions,scalable/categories
 
 
 [16x16/devices]
